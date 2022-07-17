@@ -9,7 +9,7 @@
 /coverage
 
 # production
-ReactTutorialFollowAlong/build
+/ReactTutorialFollowAlong/build
 
 # misc
 .DS_Store
